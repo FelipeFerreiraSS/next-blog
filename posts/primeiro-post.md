@@ -1,6 +1,6 @@
 ---
 title: 'Primeiro post'
-date: '13-03-2022'
+date: '2022-03-13'
 ---
 
 # Secrevit mediis

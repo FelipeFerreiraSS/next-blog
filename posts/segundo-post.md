@@ -1,6 +1,6 @@
 ---
 title: 'Segundo post'
-date: '12-03-2022'
+date: '2022-03-13'
 ---
 
 # Arma quae nunc perterrita eundem
